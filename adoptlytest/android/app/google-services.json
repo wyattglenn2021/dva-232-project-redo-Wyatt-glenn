@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "348753193247",
+    "project_id": "adeptly-54c64",
+    "storage_bucket": "adeptly-54c64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348753193247:android:ff5ff7f43f887a19baa82a",
+        "android_client_info": {
+          "package_name": "com.adoptly.adoptlyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348753193247-f25m392s7rqho0feof9ttkhf08dqce1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOtKtmaZFA7Ari_kls8_hFH55IQHHDsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348753193247-f25m392s7rqho0feof9ttkhf08dqce1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348753193247-e5fu6eh9r721s2kih8vhhp71ggtbvs9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adoptly.adoptlyapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348753193247:android:7782e3e4fb509172baa82a",
+        "android_client_info": {
+          "package_name": "com.example.proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348753193247-f25m392s7rqho0feof9ttkhf08dqce1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOtKtmaZFA7Ari_kls8_hFH55IQHHDsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348753193247-f25m392s7rqho0feof9ttkhf08dqce1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348753193247-e5fu6eh9r721s2kih8vhhp71ggtbvs9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adoptly.adoptlyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

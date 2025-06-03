@@ -1,0 +1,1289 @@
+{
+  "users": {
+    "shelter_001": {
+      "name": "Happy Paws Shelter",
+      "location": "New York",
+      "role": "shelter",
+      "pets": {
+        "pet_001": {
+          "name": "Lucy",
+          "species": "Other",
+          "breed": "Guinea Pig",
+          "gender": "Male",
+          "age": "6 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Obedient",
+            "Gentle",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_001@petadoption.com",
+          "phone": "769-148-9843",
+          "address": "521 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_002": {
+          "name": "Rocky",
+          "species": "Dog",
+          "breed": "Poodle",
+          "gender": "Male",
+          "age": "4 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Gentle",
+            "Shy",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with cats"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_002@petadoption.com",
+          "phone": "369-359-1522",
+          "address": "675 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_003": {
+          "name": "Rocky",
+          "species": "Other",
+          "breed": "Rabbit",
+          "gender": "Female",
+          "age": "1 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Playful",
+            "Shy",
+            "Gentle"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_003@petadoption.com",
+          "phone": "873-957-9375",
+          "address": "756 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_004": {
+          "name": "Lucy",
+          "species": "Other",
+          "breed": "Ferret",
+          "gender": "Female",
+          "age": "8 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Playful",
+            "Social",
+            "Loving"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_004@petadoption.com",
+          "phone": "550-881-4203",
+          "address": "682 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_005": {
+          "name": "Charlie",
+          "species": "Dog",
+          "breed": "Labrador Retriever",
+          "gender": "Male",
+          "age": "2 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Calm",
+            "Playful",
+            "Obedient"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "None",
+          "vaccinationStatus": "Not required",
+          "email": "pet_005@petadoption.com",
+          "phone": "629-184-2299",
+          "address": "129 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_006": {
+          "name": "Ziggy",
+          "species": "Bird",
+          "breed": "Cockatiel",
+          "gender": "Male",
+          "age": "10 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Playful",
+            "Calm",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_006@petadoption.com",
+          "phone": "695-376-7876",
+          "address": "397 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_007": {
+          "name": "Ziggy",
+          "species": "Dog",
+          "breed": "Beagle",
+          "gender": "Female",
+          "age": "2 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Energetic",
+            "Playful",
+            "Social"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with calm pets"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "None",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_007@petadoption.com",
+          "phone": "811-301-8683",
+          "address": "361 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_008": {
+          "name": "Nala",
+          "species": "Dog",
+          "breed": "Labrador Retriever",
+          "gender": "Female",
+          "age": "1 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Loving",
+            "Social",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_008@petadoption.com",
+          "phone": "925-523-1854",
+          "address": "615 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_009": {
+          "name": "Luna",
+          "species": "Bird",
+          "breed": "Canary",
+          "gender": "Female",
+          "age": "9 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Energetic",
+            "Gentle",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with kids"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_009@petadoption.com",
+          "phone": "688-764-9926",
+          "address": "429 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_010": {
+          "name": "Ziggy",
+          "species": "Dog",
+          "breed": "Beagle",
+          "gender": "Male",
+          "age": "8 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Energetic",
+            "Calm",
+            "Social"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with cats"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "None",
+          "vaccinationStatus": "Not required",
+          "email": "pet_010@petadoption.com",
+          "phone": "220-574-2356",
+          "address": "202 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_011": {
+          "name": "Daisy",
+          "species": "Dog",
+          "breed": "Labrador Retriever",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Loving",
+            "Social",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Not required",
+          "email": "pet_011@petadoption.com",
+          "phone": "397-826-5539",
+          "address": "572 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_012": {
+          "name": "Rocky",
+          "species": "Bird",
+          "breed": "Parakeet",
+          "gender": "Female",
+          "age": "5 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Gentle",
+            "Shy",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_012@petadoption.com",
+          "phone": "574-817-1848",
+          "address": "953 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_013": {
+          "name": "Rocky",
+          "species": "Cat",
+          "breed": "Ragdoll",
+          "gender": "Female",
+          "age": "8 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Calm",
+            "Obedient",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_013@petadoption.com",
+          "phone": "700-750-1035",
+          "address": "549 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_014": {
+          "name": "Charlie",
+          "species": "Bird",
+          "breed": "Parakeet",
+          "gender": "Male",
+          "age": "4 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Energetic",
+            "Obedient",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Not required",
+          "email": "pet_014@petadoption.com",
+          "phone": "506-865-7612",
+          "address": "750 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_015": {
+          "name": "Charlie",
+          "species": "Bird",
+          "breed": "Cockatiel",
+          "gender": "Female",
+          "age": "8 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Shy",
+            "Obedient",
+            "Social"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_015@petadoption.com",
+          "phone": "398-274-6876",
+          "address": "395 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        }
+      }
+    },
+    "shelter_002": {
+      "name": "Nordic Tails",
+      "location": "Stockholm, Sweden",
+      "role": "shelter",
+      "pets": {
+        "pet_001": {
+          "name": "Simba",
+          "species": "Other",
+          "breed": "Ferret",
+          "gender": "Male",
+          "age": "3 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Calm",
+            "Shy",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with cats"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_001@petadoption.com",
+          "phone": "847-319-7570",
+          "address": "795 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_002": {
+          "name": "Luna",
+          "species": "Other",
+          "breed": "Guinea Pig",
+          "gender": "Female",
+          "age": "2 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Gentle",
+            "Playful",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with cats"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "None",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_002@petadoption.com",
+          "phone": "545-363-7608",
+          "address": "739 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_003": {
+          "name": "Charlie",
+          "species": "Cat",
+          "breed": "Persian",
+          "gender": "Male",
+          "age": "6 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Calm",
+            "Loving",
+            "Obedient"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_003@petadoption.com",
+          "phone": "795-530-4130",
+          "address": "481 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_004": {
+          "name": "Coco",
+          "species": "Cat",
+          "breed": "Ragdoll",
+          "gender": "Female",
+          "age": "10 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Loving",
+            "Playful",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with cats"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "None",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_004@petadoption.com",
+          "phone": "839-473-5187",
+          "address": "994 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_005": {
+          "name": "Nala",
+          "species": "Dog",
+          "breed": "Poodle",
+          "gender": "Male",
+          "age": "4 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Calm",
+            "Energetic",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_005@petadoption.com",
+          "phone": "556-905-8961",
+          "address": "723 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_006": {
+          "name": "Charlie",
+          "species": "Cat",
+          "breed": "Maine Coon",
+          "gender": "Female",
+          "age": "1 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Calm",
+            "Gentle",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with kids"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_006@petadoption.com",
+          "phone": "168-550-1456",
+          "address": "793 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_007": {
+          "name": "Ziggy",
+          "species": "Dog",
+          "breed": "Poodle",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Energetic",
+            "Loving",
+            "Obedient"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_007@petadoption.com",
+          "phone": "630-401-8486",
+          "address": "197 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_008": {
+          "name": "Simba",
+          "species": "Cat",
+          "breed": "Siamese",
+          "gender": "Female",
+          "age": "7 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Social",
+            "Playful",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_008@petadoption.com",
+          "phone": "260-586-5872",
+          "address": "142 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_009": {
+          "name": "Oliver",
+          "species": "Other",
+          "breed": "Rabbit",
+          "gender": "Male",
+          "age": "1 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Playful",
+            "Social",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Not required",
+          "email": "pet_009@petadoption.com",
+          "phone": "747-500-4716",
+          "address": "528 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_010": {
+          "name": "Coco",
+          "species": "Dog",
+          "breed": "Bulldog",
+          "gender": "Female",
+          "age": "3 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Energetic",
+            "Social",
+            "Gentle"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with kids"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_010@petadoption.com",
+          "phone": "581-342-4354",
+          "address": "367 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_011": {
+          "name": "Coco",
+          "species": "Dog",
+          "breed": "Bulldog",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Energetic",
+            "Obedient",
+            "Gentle"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Not required",
+          "email": "pet_011@petadoption.com",
+          "phone": "227-757-7361",
+          "address": "185 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_012": {
+          "name": "Daisy",
+          "species": "Dog",
+          "breed": "Labrador Retriever",
+          "gender": "Female",
+          "age": "5 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Obedient",
+            "Calm",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "None",
+          "vaccinationStatus": "Not required",
+          "email": "pet_012@petadoption.com",
+          "phone": "943-328-8507",
+          "address": "306 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        }
+      }
+    },
+    "shelter_003": {
+      "name": "V\u00e4ster\u00e5s Animal Haven",
+      "location": "V\u00e4ster\u00e5s, Sweden",
+      "role": "shelter",
+      "pets": {
+        "pet_001": {
+          "name": "Ziggy",
+          "species": "Dog",
+          "breed": "Beagle",
+          "gender": "Male",
+          "age": "1 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Loving",
+            "Energetic",
+            "Obedient"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with calm pets"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_001@petadoption.com",
+          "phone": "279-964-4784",
+          "address": "343 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_002": {
+          "name": "Bella",
+          "species": "Bird",
+          "breed": "Parakeet",
+          "gender": "Female",
+          "age": "1 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Energetic",
+            "Loving",
+            "Social"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with kids"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_002@petadoption.com",
+          "phone": "857-698-1620",
+          "address": "565 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_003": {
+          "name": "Oliver",
+          "species": "Cat",
+          "breed": "Siamese",
+          "gender": "Male",
+          "age": "8 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Playful",
+            "Obedient",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "None",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_003@petadoption.com",
+          "phone": "179-406-9216",
+          "address": "462 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_004": {
+          "name": "Max",
+          "species": "Other",
+          "breed": "Guinea Pig",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Calm",
+            "Shy",
+            "Loving"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_004@petadoption.com",
+          "phone": "495-441-6912",
+          "address": "529 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_005": {
+          "name": "Ziggy",
+          "species": "Cat",
+          "breed": "Siamese",
+          "gender": "Male",
+          "age": "1 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Loving",
+            "Gentle",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_005@petadoption.com",
+          "phone": "845-340-7214",
+          "address": "365 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_006": {
+          "name": "Bella",
+          "species": "Cat",
+          "breed": "Siamese",
+          "gender": "Female",
+          "age": "7 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Obedient",
+            "Playful",
+            "Loving"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with calm pets"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_006@petadoption.com",
+          "phone": "119-366-9279",
+          "address": "929 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_007": {
+          "name": "Coco",
+          "species": "Other",
+          "breed": "Guinea Pig",
+          "gender": "Male",
+          "age": "8 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Shy",
+            "Social",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_007@petadoption.com",
+          "phone": "604-980-4907",
+          "address": "513 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_008": {
+          "name": "Daisy",
+          "species": "Cat",
+          "breed": "Ragdoll",
+          "gender": "Female",
+          "age": "3 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Social",
+            "Calm",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_008@petadoption.com",
+          "phone": "425-989-7227",
+          "address": "769 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        },
+        "pet_009": {
+          "name": "Ziggy",
+          "species": "Bird",
+          "breed": "Cockatiel",
+          "gender": "Female",
+          "age": "10 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Loving",
+            "Gentle",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Not required",
+          "email": "pet_009@petadoption.com",
+          "phone": "839-406-7499",
+          "address": "829 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_010": {
+          "name": "Lucy",
+          "species": "Other",
+          "breed": "Ferret",
+          "gender": "Male",
+          "age": "4 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Playful",
+            "Social",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_010@petadoption.com",
+          "phone": "106-512-6566",
+          "address": "717 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        }
+      }
+    },
+    "shelter_004": {
+      "name": "Big Sky Rescue",
+      "location": "Bozeman, Montana",
+      "role": "shelter",
+      "pets": {
+        "pet_001": {
+          "name": "Ziggy",
+          "species": "Cat",
+          "breed": "Maine Coon",
+          "gender": "Female",
+          "age": "8 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Gentle",
+            "Obedient",
+            "Loving"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with cats"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Not required",
+          "email": "pet_001@petadoption.com",
+          "phone": "849-662-1229",
+          "address": "992 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_002": {
+          "name": "Charlie",
+          "species": "Bird",
+          "breed": "Parakeet",
+          "gender": "Male",
+          "age": "5 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Gentle",
+            "Obedient",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Not required",
+          "email": "pet_002@petadoption.com",
+          "phone": "919-889-1399",
+          "address": "903 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_003": {
+          "name": "Rocky",
+          "species": "Cat",
+          "breed": "Ragdoll",
+          "gender": "Male",
+          "age": "5 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Gentle",
+            "Energetic",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with calm pets",
+            "Good with kids"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_003@petadoption.com",
+          "phone": "717-509-9864",
+          "address": "155 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_004": {
+          "name": "Charlie",
+          "species": "Bird",
+          "breed": "Cockatiel",
+          "gender": "Female",
+          "age": "5 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Calm",
+            "Obedient",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Not required",
+          "email": "pet_004@petadoption.com",
+          "phone": "101-233-1664",
+          "address": "862 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_005": {
+          "name": "Nala",
+          "species": "Dog",
+          "breed": "Poodle",
+          "gender": "Male",
+          "age": "5 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Calm",
+            "Playful",
+            "Shy"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with kids"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Up to date",
+          "email": "pet_005@petadoption.com",
+          "phone": "414-838-9571",
+          "address": "795 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_006": {
+          "name": "Nala",
+          "species": "Bird",
+          "breed": "Parakeet",
+          "gender": "Female",
+          "age": "10 years",
+          "size": "Small",
+          "behaviorTraits": [
+            "Gentle",
+            "Playful",
+            "Energetic"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Not required",
+          "email": "pet_006@petadoption.com",
+          "phone": "134-421-3517",
+          "address": "856 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": true
+        }
+      }
+    },
+    "shelter_005": {
+      "name": "LA Fur Friends",
+      "location": "Los Angeles, California",
+      "role": "shelter",
+      "pets": {
+        "pet_001": {
+          "name": "Coco",
+          "species": "Cat",
+          "breed": "Persian",
+          "gender": "Male",
+          "age": "8 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Playful",
+            "Loving",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with calm pets"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_001@petadoption.com",
+          "phone": "833-321-7253",
+          "address": "527 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_002": {
+          "name": "Oliver",
+          "species": "Bird",
+          "breed": "Cockatiel",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Social",
+            "Playful",
+            "Loving"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Low fat",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_002@petadoption.com",
+          "phone": "956-915-7605",
+          "address": "867 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": true
+        },
+        "pet_003": {
+          "name": "Nala",
+          "species": "Cat",
+          "breed": "Maine Coon",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Playful",
+            "Obedient",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with cats"
+          ],
+          "activityLevel": "Medium",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_003@petadoption.com",
+          "phone": "778-464-8163",
+          "address": "458 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_004": {
+          "name": "Lucy",
+          "species": "Dog",
+          "breed": "Terrier",
+          "gender": "Female",
+          "age": "10 years",
+          "size": "Medium",
+          "behaviorTraits": [
+            "Social",
+            "Playful",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with cats",
+            "Good with other dogs"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_004@petadoption.com",
+          "phone": "537-561-5354",
+          "address": "861 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        },
+        "pet_005": {
+          "name": "Bella",
+          "species": "Bird",
+          "breed": "Canary",
+          "gender": "Male",
+          "age": "9 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Obedient",
+            "Social",
+            "Calm"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "Fresh greens required",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_005@petadoption.com",
+          "phone": "114-714-4541",
+          "address": "586 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_006": {
+          "name": "Max",
+          "species": "Cat",
+          "breed": "Siamese",
+          "gender": "Female",
+          "age": "3 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Obedient",
+            "Energetic",
+            "Playful"
+          ],
+          "compatibility": [
+            "Good with other dogs",
+            "Good with kids"
+          ],
+          "activityLevel": "High",
+          "specialDiet": "High protein",
+          "vaccinationStatus": "Due for booster",
+          "email": "pet_006@petadoption.com",
+          "phone": "529-920-5358",
+          "address": "417 Pet Lane, Pawsville, USA",
+          "goodWithKids": false,
+          "interactsWithOtherPets": false
+        },
+        "pet_007": {
+          "name": "Charlie",
+          "species": "Bird",
+          "breed": "Canary",
+          "gender": "Male",
+          "age": "8 years",
+          "size": "Large",
+          "behaviorTraits": [
+            "Obedient",
+            "Social",
+            "Gentle"
+          ],
+          "compatibility": [
+            "Good with kids",
+            "Good with other dogs"
+          ],
+          "activityLevel": "Low",
+          "specialDiet": "None",
+          "vaccinationStatus": "Not required",
+          "email": "pet_007@petadoption.com",
+          "phone": "434-279-2882",
+          "address": "768 Pet Lane, Pawsville, USA",
+          "goodWithKids": true,
+          "interactsWithOtherPets": false
+        }
+      }
+    }
+  }
+}
